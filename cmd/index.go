@@ -25,6 +25,7 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"log/slog"
 
 	"github.com/spf13/cobra"
 )
@@ -61,8 +62,11 @@ var indexCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 		path := cmd.Flag("path").Value.String()
 
-		s := filepath.WalkDir()
-		
+		err := filepath.WalkDir(path, handler())
+		if err != nil {
+			slog.Error(err)
+		}
+
 	},
 }
 
