@@ -1,0 +1,3222 @@
+{
+	"date_time": "2025-03-09T21:13:18.057394835-07:00",
+	"name": "manifest",
+	"nodes": [
+		{
+			"mime_type": "",
+			"relative_path": ".adr-dir",
+			"file_extension": ".adr-dir",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/HEAD",
+			"file_extension": "",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/config",
+			"file_extension": "",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/description",
+			"file_extension": "",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/hooks/applypatch-msg.sample",
+			"file_extension": ".sample",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/hooks/commit-msg.sample",
+			"file_extension": ".sample",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/hooks/fsmonitor-watchman.sample",
+			"file_extension": ".sample",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/hooks/post-update.sample",
+			"file_extension": ".sample",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/hooks/pre-applypatch.sample",
+			"file_extension": ".sample",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/hooks/pre-commit.sample",
+			"file_extension": ".sample",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/hooks/pre-merge-commit.sample",
+			"file_extension": ".sample",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/hooks/pre-push.sample",
+			"file_extension": ".sample",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/hooks/pre-rebase.sample",
+			"file_extension": ".sample",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/hooks/pre-receive.sample",
+			"file_extension": ".sample",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/hooks/prepare-commit-msg.sample",
+			"file_extension": ".sample",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/hooks/push-to-checkout.sample",
+			"file_extension": ".sample",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/hooks/sendemail-validate.sample",
+			"file_extension": ".sample",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/hooks/update.sample",
+			"file_extension": ".sample",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/index",
+			"file_extension": "",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/info/exclude",
+			"file_extension": "",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/logs/HEAD",
+			"file_extension": "",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/logs/refs/heads/main",
+			"file_extension": "",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/logs/refs/remotes/origin/HEAD",
+			"file_extension": "",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/objects/pack/pack-699ed9aa95f8c6d06d1496d82b7af2a0ab3d5f7b.idx",
+			"file_extension": ".idx",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/x-java-pack200",
+			"relative_path": ".git/objects/pack/pack-699ed9aa95f8c6d06d1496d82b7af2a0ab3d5f7b.pack",
+			"file_extension": ".pack",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/objects/pack/pack-699ed9aa95f8c6d06d1496d82b7af2a0ab3d5f7b.rev",
+			"file_extension": ".rev",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/packed-refs",
+			"file_extension": "",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/refs/heads/main",
+			"file_extension": "",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".git/refs/remotes/origin/HEAD",
+			"file_extension": "",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": ".github/ISSUE_TEMPLATE/bug_report.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": ".github/ISSUE_TEMPLATE/feature_request.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": ".github/ISSUE_TEMPLATE/tech_debt.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/actions/golang/action.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/actions/install-tools/action.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/actions/save-logs/action.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/codeql.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": ".github/pull_request_template.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/workflows/commitlint.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/workflows/golangci-lint.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/workflows/goreleaser-check.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/workflows/release-please.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/workflows/release.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/workflows/scan-codeql.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/workflows/scan-gosec.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/workflows/scan-kics.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/workflows/scorecard.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/workflows/test-e2e.yml",
+			"file_extension": ".yml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/workflows/test-fuzz.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/workflows/test-unit.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".github/workflows/triage-label.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": ".gitignore",
+			"file_extension": ".gitignore",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".golangci.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": ".goreleaser.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": ".release-please-manifest.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "CHANGELOG.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "CODEOWNERS",
+			"file_extension": "",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "CODE_OF_CONDUCT.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "CONTRIBUTING.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "LICENSE",
+			"file_extension": "",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "Makefile",
+			"file_extension": "",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "README.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "RELEASES.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "SECURITY.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "adr/0001-record-architecture-decisions.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "adr/0002-oscal-data-format.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "adr/0003-multiple-provider-support.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "adr/0004-opa-provider.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "adr/0005-cel-provider.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "adr/0006-resource-collections.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "adr/0007-validation-artifact-format.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "adr/0008-validation-refactor.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/x-shellscript",
+			"relative_path": "build/scripts/fuzz.sh",
+			"file_extension": ".sh",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/javascript",
+			"relative_path": "commitlint/commitlint.config.js",
+			"file_extension": ".js",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "commitlint/package-lock.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "commitlint/package.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "cspell.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "demo/console/assessment-results-compare.tape",
+			"file_extension": ".tape",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "demo/console/assessment-results.tape",
+			"file_extension": ".tape",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "demo/console/component-edit.tape",
+			"file_extension": ".tape",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "demo/console/component-read.tape",
+			"file_extension": ".tape",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "demo/console/component-validate.tape",
+			"file_extension": ".tape",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "demo/console/component-validation-detail.tape",
+			"file_extension": ".tape",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "demo/develop-validation/oscal-component.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "demo/develop-validation/resources-bad.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "demo/develop-validation/resources.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "demo/develop-validation/validation.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "demo/simple/namespace.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "demo/simple/oscal-component-kyverno.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "demo/simple/oscal-component-opa.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "demo/simple/pod.fail.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "demo/simple/pod.pass.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "demo/validation-tests/missing-podinfo-deployment.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "demo/validation-tests/not-equal-replicas.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "demo/validation-tests/resources.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "demo/validation-tests/validation.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "demo/validation-tests/zero-replicas.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/README.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_completion.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_completion_bash.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_completion_fish.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_completion_powershell.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_completion_zsh.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_console.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_dev.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_dev_get-resources.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_dev_lint.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_dev_validate.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_evaluate.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_generate.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_generate_component.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_generate_profile.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_generate_system-security-plan.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_report.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_tools.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_tools_compose.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_tools_lint.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_tools_print.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_tools_template.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_tools_upgrade.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_tools_uuidgen.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_validate.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/cli-commands/lula_version.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/community-and-contribution/README.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/community-and-contribution/dependency-updates.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/community-and-contribution/roadmap.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/community-and-contribution/schema-updates.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/community-and-contribution/testing.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/community-and-contribution/triage-label.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/console/README.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/console/assessment-results.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/console/component-definition.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/getting-started/README.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/getting-started/configuration.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/getting-started/develop-a-validation.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/getting-started/lula-in-ci.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/getting-started/simple-demo.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/getting-started/templating.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/getting-started/test-a-validation.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/oscal/README.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/oscal/assessment-results.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/oscal/component-definition.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/oscal/ns/README.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/oscal/ns/framework.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/oscal/ns/generation.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/oscal/ns/target.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/oscal/ns/threshold.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/oscal/ns/validation.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/oscal/oscal-validation-links.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/oscal/profile.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/oscal/system-security-plan.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/reference/README.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/reference/domains/README.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/reference/domains/api-domain.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/reference/domains/file-domain.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/reference/domains/kubernetes-domain.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/reference/providers/README.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/reference/providers/kyverno-provider.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/reference/providers/opa-provider.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/reference/testing.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/markdown",
+			"relative_path": "docs/reference/version-specification.md",
+			"file_extension": ".md",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "audio/x-mod",
+			"relative_path": "go.mod",
+			"file_extension": ".mod",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "go.sum",
+			"file_extension": ".sum",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "image/gif",
+			"relative_path": "images/assessment-results-console-compare.gif",
+			"file_extension": ".gif",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "image/gif",
+			"relative_path": "images/assessment-results-console.gif",
+			"file_extension": ".gif",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "image/gif",
+			"relative_path": "images/cluster-demo.gif",
+			"file_extension": ".gif",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "images/cluster-demo.yml",
+			"file_extension": ".yml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "image/gif",
+			"relative_path": "images/component-defn-console-edit.gif",
+			"file_extension": ".gif",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "image/gif",
+			"relative_path": "images/component-defn-console-read.gif",
+			"file_extension": ".gif",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "image/gif",
+			"relative_path": "images/component-defn-console-validate.gif",
+			"file_extension": ".gif",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "image/gif",
+			"relative_path": "images/component-defn-console-validation-detail.gif",
+			"file_extension": ".gif",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "image/svg+xml",
+			"relative_path": "images/lula.svg",
+			"file_extension": ".svg",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "image/gif",
+			"relative_path": "images/resource-demo.gif",
+			"file_extension": ".gif",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "images/resource-demo.yml",
+			"file_extension": ".yml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "lula-config.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/x-msdownload",
+			"relative_path": "lula.exe",
+			"file_extension": ".exe",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "main.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/toml",
+			"relative_path": "netlify.toml",
+			"file_extension": ".toml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "release-please-config.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "renovate.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/common/common.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/common/setup.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/common/viper.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/console/console.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/console/console_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/dev/common.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/dev/get-resources.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/dev/lint.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/dev/validate.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/dev/validate_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/evaluate/evaluate.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/generate/generate.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/generate/profile.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/generate/system-security-plan.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/internal.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/report/report.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/root.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/tools/common.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/tools/compose.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/tools/lint.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/tools/print.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/tools/print_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/tools/template.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/tools/upgrade.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/tools/uuid.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/validate/validate.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/cmd/version/version.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/config/config.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/reporting/helpers.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/reporting/reporting.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/reporting/reporting_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/template/helpers.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/template/template.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/template/template_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/testhelpers/testhelpers.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/transform/filters.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/transform/filters_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/transform/path.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/transform/path_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/transform/transform.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/transform/transform_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/assessment_results/assessment-results.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/assessment_results/assessment-results_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/assessment_results/focus.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/assessment_results/keys.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/assessment_results/model.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/assessment_results/model_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/internal/tui/assessment_results/testdata/TestAssessmentResultsBasicView.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/internal/tui/assessment_results/testdata/TestAssessmentResultsWithComparison.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/internal/tui/assessment_results/testdata/TestAssessmentResultsWithFindingsDetail.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/internal/tui/assessment_results/testdata/TestAssessmentResultsWithObservationComparisonDetail.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/internal/tui/assessment_results/testdata/TestAssessmentResultsWithResultsSwitch.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/common/common.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/common/detailed.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/common/editor.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/common/help.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/common/keys.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/common/picker.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/common/popup.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/common/save.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/common/styles.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/common/tbd.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/component/component.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/component/component_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/component/focus.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/component/keys.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/component/model.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/component/model_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/internal/tui/component/testdata/TestComponentControlSelect.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/internal/tui/component/testdata/TestComponentDefinitionBasicView.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/internal/tui/component/testdata/TestComponentDefinitionComponentSwitch.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/internal/tui/component/testdata/TestDetailValidationViewComponentDefinitionModel.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/internal/tui/component/testdata/TestEditViewComponentDefinitionModel.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/internal/tui/component/testdata/TestValidateInitialView.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/component/validate.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/component/validate_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/model.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/internal/tui/model_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/internal/tui/testdata/TestNewOSCALModel.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/common.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/common_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/composition/composition.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/composition/composition_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/composition/options.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/composition/resource-store.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/network/download.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/network/network.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/network/network_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/assessment-results.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/assessment-results_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/catalog.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/catalog_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/common.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/common_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/complete-schema.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/complete-schema_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/component.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/component_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/multi-validate.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/multi-validate_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/profile.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/profile_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/system-security-plan.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/oscal/system-security-plan_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/requirement-store/requirement-store.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/requirement-store/requirement-store_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/result/observation-pair.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/result/observation-pair_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/result/result-comparison.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/result/result-comparison_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/schemas/api_domain.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/schemas/schema.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/schemas/schema_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "src/pkg/common/schemas/validation.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/types.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/types_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/validation/options.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/validation/validation.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "src/pkg/common/validation-store/testdata/data.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/pkg/common/validation-store/testdata/validation-with-tests.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/pkg/common/validation-store/testdata/validation.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/validation-store/validation-store.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/common/validation-store/validation-store_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/domains/api/api.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/domains/api/http_request.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/domains/api/spec.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/domains/api/spec_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/domains/api/types.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/domains/api/types_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/domains/files/files.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/domains/files/files_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/domains/files/spec.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/pkg/domains/files/testdata/arbitrary.file",
+			"file_extension": ".file",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "src/pkg/domains/files/testdata/bar.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/pkg/domains/files/testdata/baz",
+			"file_extension": "",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/pkg/domains/files/testdata/foo.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/pkg/domains/files/testdata/nested-directory/baz.hcl2",
+			"file_extension": ".hcl2",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/domains/kubernetes/cluster.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/domains/kubernetes/create.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/domains/kubernetes/resource.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/domains/kubernetes/spec.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/domains/kubernetes/spec_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/domains/kubernetes/wait.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/message/generic.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/message/interactive.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/message/message.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/message/message_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/message/progress.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/message/spinner.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/providers/kyverno/kyverno.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/providers/kyverno/types.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/providers/kyverno/types_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/providers/opa/opa.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/providers/opa/opa_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/pkg/providers/opa/testdata/empty.rego",
+			"file_extension": ".rego",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/pkg/providers/opa/testdata/invalid.rego",
+			"file_extension": ".rego",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/pkg/providers/opa/testdata/lula.rego",
+			"file_extension": ".rego",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/providers/opa/types.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/pkg/providers/opa/types_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/api_validation_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/cmd/cmd_report_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/cmd/console_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/cmd/dev_get_resources_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/cmd/dev_lint_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/cmd/dev_validate_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/cmd/generate_profile_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/cmd/generate_ssp_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/cmd/lula-config.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/cmd/main_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/dev/get-resources/help.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/cmd/testdata/dev/get-resources/opa.validation.tpl.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/cmd/testdata/dev/get-resources/opa.validation.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/cmd/testdata/dev/get-resources/pod.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/dev/lint/help.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/cmd/testdata/dev/lint/invalid.opa.validation.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/cmd/testdata/dev/lint/multi.validation.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/cmd/testdata/dev/lint/opa.validation.tpl.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/cmd/testdata/dev/lint/opa.validation.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/cmd/testdata/dev/lint/validation.kyverno.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/dev/validate/help.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/cmd/testdata/dev/validate/opa.validation-failing-test.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/cmd/testdata/dev/validate/opa.validation-passing-test.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/generate/generate-profile.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/generate/help.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/generate/ssp-help.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/generate/ssp-using-component-template.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/generate/ssp-with-components-and-remapped-paths.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/compose/composed-file-templated-constants.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/compose/composed-file-templated-masked.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/compose/composed-file-templated-no-validation-templated-valid.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/compose/composed-file-templated-non-sensitive.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/compose/composed-file-templated-overrides.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/compose/composed-file-templated.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/compose/help.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/print/resources.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/print/validation.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/template/help.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/template/validation.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/template/validation_all.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/template/validation_constants.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/template/validation_non_sensitive.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/template/validation_with_env_vars.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/tools/template/validation_with_set.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/cmd/testdata/validate/component-composed.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "src/test/e2e/cmd/testdata/validate/data.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/cmd/testdata/validate/help.golden",
+			"file_extension": ".golden",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/cmd/tools_compose_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/cmd/tools_print_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/cmd/tools_template_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/cmd/validate_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/composition_component_def_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/create_resource_data_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/dev_get_resources_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/dev_validation_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/file_validation_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/main_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/multi_resource_validation_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/outputs_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/pod_validation_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/pod_wait_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/remote_validation_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/resource_data_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/api-field/configmap.fail.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/api-field/configmap.pass.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/api-field/oscal-component.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/api-field/pod.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/scenarios/api-validations/component-definition-post.yaml.tmpl",
+			"file_extension": ".tmpl",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/scenarios/api-validations/component-definition.yaml.tmpl",
+			"file_extension": ".tmpl",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/composition-component-definition/pod.pass.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/create-resources/oscal-component-denied.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/create-resources/oscal-component-wait-read.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/create-resources/oscal-component.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/create-resources/validation.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/dev-get-resources/configmap.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/dev-get-resources/pod.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/dev-get-resources/validation.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/dev-validate/pod.pass.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "src/test/e2e/scenarios/dev-validate/resources.foo-baz.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/dev-validate/validation.kyverno.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/dev-validate/validation.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/file-validations/fail/component-definition.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "src/test/e2e/scenarios/file-validations/fail/config.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/file-validations/fail/oscal-component-kyverno.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/file-validations/invalid/oscal-component.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/file-validations/pass/component-definition-remote-files.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/file-validations/pass/component-definition-string-file.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/file-validations/pass/component-definition.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "src/test/e2e/scenarios/file-validations/pass/config.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/scenarios/file-validations/pass/config.string",
+			"file_extension": ".string",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/file-validations/pass/oscal-component-kyverno.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/multi-resource/configmap.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/multi-resource/oscal-component.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/multi-resource/pod.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/multi-resource/podvt1.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/multi-resource/podvt2.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/outputs/oscal-component.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/outputs/pod.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "",
+			"relative_path": "src/test/e2e/scenarios/pod-label/labels.rego",
+			"file_extension": ".rego",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/pod-label/oscal-component-all-bad.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/pod-label/oscal-component-kyverno.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/pod-label/oscal-component.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/pod-label/pod.fail.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/pod-label/pod.pass.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/remote-validations/component-definition.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/remote-validations/multi-validations.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/remote-validations/pod.pass.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/remote-validations/validation.kyverno.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/remote-validations/validation.opa.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/remote-validations/validation.whitespace.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/resource-data/configmap_json.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/resource-data/configmap_yaml.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/resource-data/oscal-component.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/resource-data/pod.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/resource-data/secret.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/template-validation/component-definition.tmpl.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/template-validation/pod.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/template-validation/validation.tmpl.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/validation-composition/assessment-results.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/validation-composition/component-definition-bad-href.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/validation-composition/component-definition.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/validation-composition/multi-validations.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/validation-composition/pod.pass.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/validation-composition/validation.kyverno.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/validation-composition/validation.opa.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/wait-field/oscal-component.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/wait-field/pod.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/scenarios/wait-field/validation.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/template_validation_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/e2e/testdata/kind-config.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/e2e/validation_composition_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/composition/component-definition-all-local-bad-href.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/composition/component-definition-all-local.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/composition/component-definition-import-compdefs-composed.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/composition/component-definition-import-compdefs.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/composition/component-definition-import-multi-compdef.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/composition/component-definition-import-nested-compdef-template.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/composition/component-definition-import-nested-compdef.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/composition/component-definition-local-and-remote.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/composition/component-definition-multi.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/composition/component-definition-template-valid-validation-tmpl.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/composition/component-definition-template.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/catalog.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/component-rev4-template.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/component-testrewritepaths-expected.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/component-testrewritepaths.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/component-with-imports-resolved.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/component-with-imports.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/component-with-remote-imports.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/multi-model.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/subdir/basic-catalog.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/subdir/basic-profile.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/subdir/component-definition-to-import.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/subdir/component-definition.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-assessment-results-added-finding.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-assessment-results-multi.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-assessment-results-removed-finding.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-assessment-results-removed-observation.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-assessment-results-with-resources.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-assessment-results.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-back-matter-map.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-component-metadata-injected.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-component-metadata.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-component-no-implementations.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-component-no-lula.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-component-template.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-component.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-generated-component.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-generated-ssp.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-multi-component-per-control.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-multi-component-validations.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-multi-component.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-profile-multiple-imports.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-profile-remote-rev4.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-profile-test-excludes.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-profile.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-ssp-metadata-injected.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-ssp-metadata.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-ssp-no-components.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/oscal/valid-ssp.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/plain",
+			"relative_path": "src/test/unit/common/resources/invalid-resources.txt",
+			"file_extension": ".txt",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/json",
+			"relative_path": "src/test/unit/common/resources/valid-resources.json",
+			"file_extension": ".json",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/validation/multi.validation.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/validation/valid-validation.tmpl.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/validation/validation.bad.tmpl.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/validation/validation.kyverno.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/validation/validation.opa.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/validation/validation.resource-print.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/validation/validation.tmpl.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "application/yaml",
+			"relative_path": "src/test/unit/common/validation/validation.trailing-spaces.yaml",
+			"file_extension": ".yaml",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/test/util/utils.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/types/context_keys.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/types/domain-resources.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/types/types.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/types/types_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/types/validation-test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		},
+		{
+			"mime_type": "text/x-go",
+			"relative_path": "src/types/validation-test_test.go",
+			"file_extension": ".go",
+			"parser_version": 1
+		}
+	]
+}

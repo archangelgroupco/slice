@@ -22,50 +22,85 @@ THE SOFTWARE.
 package cmd
 
 import (
+	"encoding/json"
 	"fmt"
+	"log"
+	"mime"
 	"os"
 	"path/filepath"
-	"log/slog"
+	"slice/internal/models"
+	"strings"
+	"time"
 
 	"github.com/spf13/cobra"
 )
 
+var dirTreeIndex []models.Entry
+var rootPath string
 
 func handler() filepath.WalkFunc {
-	return func(filep string, info os.FileInfoy, err error) error {
+	return func(filep string, info os.FileInfo, err error) error {
 		if err != nil {
 			fmt.Println(err)
 			return err
 		}
 
-		pathInfo, err := os.Stat(filep) {
+		ftype := mime.TypeByExtension(filepath.Ext(filep))
+
+		pathInfo, err := os.Stat(filep)
+		if err != nil {
+			return err
+		}
+
+		if !pathInfo.IsDir() {
+			relPath, err := filepath.Rel(rootPath, filep)
 			if err != nil {
-				return err
+				log.Println(err)
 			}
 
-			// TODO: will need to handle this will
-			// another function
-			if !pathInfo.IsDir() {
-				fmt.Println(filep)
+			entry := models.Entry{
+				MimeType:      strings.Split(ftype, ";")[0],
+				RelativePath:  relPath,
+				FileExtension: filepath.Ext(filep),
+				ParserVersion: 1,
 			}
+			dirTreeIndex = append(dirTreeIndex, entry)
 		}
+
+		return nil
 	}
 }
-
-
 
 // indexCmd represents the index command
 var indexCmd = &cobra.Command{
 	Use:   "index",
 	Short: "Crawl the current working directory and create a manifest file",
-	Long: ``,
+	Long:  ``,
 	Run: func(cmd *cobra.Command, args []string) {
-		path := cmd.Flag("path").Value.String()
 
-		err := filepath.WalkDir(path, handler())
+		path := cmd.Flag("path").Value.String()
+		name := cmd.Flag("name").Value.String()
+
+		// Set the root path so the handler func can determin the
+		// root dir and only record relative
+		rootPath = path
+
+		err := filepath.Walk(path, handler())
 		if err != nil {
-			slog.Error(err)
+			log.Println(err)
 		}
+
+		dsIndex := models.Manifest{
+			DateTime: time.Now(),
+			Name:     name,
+			Nodes:    dirTreeIndex,
+		}
+
+		final, err := json.MarshalIndent(dsIndex, "", "	")
+		if err != nil {
+			log.Println(err)
+		}
+		fmt.Print(string(final))
 
 	},
 }
@@ -74,5 +109,6 @@ func init() {
 	rootCmd.AddCommand(indexCmd)
 
 	// Heregs().BoolP("toggle", "t", false, "Help message for toggle")
+	indexCmd.Flags().String("name", "manifest", "name of the manifest file")
 	indexCmd.Flags().String("path", ".", "path to directory to index")
 }
