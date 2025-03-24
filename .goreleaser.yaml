@@ -1,5 +1,4 @@
 # .goreleaser.yml
-
 builds:
   - id: "linux-build"
     dir: "."

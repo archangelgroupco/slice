@@ -1,5 +1,5 @@
 /*
-Copyright © 2025 archangelgroup.co
+Copyright © 2025 contact@epyklab.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,10 +19,23 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 */
-package main
+package cmd
 
-import "slice/cmd"
+import (
+	"github.com/spf13/cobra"
+	"slice/internal/database/vector"
+)
 
-func main() {
-	cmd.Execute()
+// vecolCmd represents the vecol command
+var vecolCmd = &cobra.Command{
+	Use:   "vecol",
+	Short: "process content column into vector searchable col",
+	Long:  ``,
+	Run: func(cmd *cobra.Command, args []string) {
+		vector.ParseColToVec()
+	},
+}
+
+func init() {
+	rootCmd.AddCommand(vecolCmd)
 }

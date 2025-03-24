@@ -4,6 +4,8 @@ go 1.23.5
 
 require (
 	github.com/google/go-github/v58 v58.0.0
+	github.com/lib/pq v1.10.9
+	github.com/mattn/go-sqlite3 v1.14.24
 	github.com/spf13/cobra v1.9.1
 )
 

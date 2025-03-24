@@ -1,5 +1,5 @@
 /*
-Copyright © 2025 NAME HERE <EMAIL ADDRESS>
+Copyright © 2025 contact@epyklab.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,40 +22,40 @@ THE SOFTWARE.
 package cmd
 
 import (
+	"log"
 	"os"
+	"slice/internal/database/sync"
 
 	"github.com/spf13/cobra"
 )
 
-var version string = "v0.0.0"
-
-// rootCmd represents the base command when called without any subcommands
-var rootCmd = &cobra.Command{
-	Use:   "slice",
-	Short: "slice and dice directory of arbitrary data for more managable processing",
+// syncCmd represents the sync command
+var syncCmd = &cobra.Command{
+	Use:   "sync",
+	Short: "sync a remote db from a local sqlite3 db",
 	Long:  ``,
-	// Uncomment the following line if your bare application
-	// has an action associated with it:
-	// Run: func(cmd *cobra.Command, args []string) { },
-}
+	Run: func(cmd *cobra.Command, args []string) {
+		sqlitePath := cmd.Flag("sqlite").Value.String()
 
-// Execute adds all child commands to the root command and sets flags appropriately.
-// This is called by main.main(). It only needs to happen once to the rootCmd.
-func Execute() {
-	err := rootCmd.Execute()
-	if err != nil {
-		os.Exit(1)
-	}
+		DB_CONN_STRING := os.Getenv("DB_CONN_STRING")
+		if DB_CONN_STRING == "" {
+			log.Fatal("need to have conn string environmental variable set")
+		}
+		sync.SyncWithRemote(sqlitePath)
+	},
 }
 
 func init() {
+	rootCmd.AddCommand(syncCmd)
+
 	// Here you will define your flags and configuration settings.
-	// Cobra supports persistent flags, which, if defined here,
-	// will be global for your application.
 
-	// rootCmd.PersistentFlags().StringVar(&cfgFile, "config", "", "config file (default is $HOME/.slice.yaml)")
+	// Cobra supports Persistent Flags which will work for this command
+	// and all subcommands, e.g.:
+	// syncCmd.PersistentFlags().String("foo", "", "A help for foo")
 
-	// Cobra also supports local flags, which will only run
-	// when this action is called directly.
-	rootCmd.Flags().BoolP("toggle", "t", false, "Help message for toggle")
+	// Cobra supports local flags which will only run when this command
+	// is called directly, e.g.:
+	syncCmd.Flags().StringP("sqlite", "s", "", "path to local sqlite db")
+	// syncCmd.Flags().BoolP("toggle", "t", false, "Help message for toggle")
 }
